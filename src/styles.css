@@ -1,0 +1,81 @@
+
+.auth-page {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding-top: 30px;
+}
+
+.auth-page h1 {
+    font-size: 24px;
+    color: #0056b3;
+}
+
+
+.auth-page p {
+    font-size: 16px;
+    color: #555;
+}
+
+
+.auth-page .form-container {
+    width: 100%;
+    max-width: 400px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 25px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+}
+
+
+.auth-page label {
+    display: block;
+    margin-bottom: 8px;
+    text-align: left;
+    font-weight: bold;
+}
+
+
+.auth-page input {
+    width: calc(100% - 20px);
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: #ffffff !important;
+    color: #000 !important;
+    border: 1px solid #ccc;
+}
+
+
+.auth-page button {
+    background-color: #0056b3;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    width: 100%;
+}
+
+.auth-page button:hover {
+    background-color: #00408d;
+}
+
+
+.auth-page a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+.auth-page a:hover {
+    text-decoration: underline;
+}
