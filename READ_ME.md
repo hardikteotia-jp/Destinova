@@ -19,7 +19,7 @@ A smart travel and social planning platform with AQI forecasting.
 ![Flight Search](screenshots/flights.png)
 
 ### AQI Chatbot
-![AQI Chatbot](screenshots/aqi-chatbot.gif)
+![AQI Chatbot](Screenshot%202026-04-26%20203356.png)
 
 ### Booking Email Reminder
 ![Email](screenshots/email.png)
