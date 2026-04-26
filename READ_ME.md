@@ -13,7 +13,7 @@ A smart travel and social planning platform with AQI forecasting.
 ## Screenshots
 
 ### Homepage
-![Homepage](Screenshot 2026-04-26 203308.png)
+![Homepage](Screenshot%202026-04-26%20203308.png)
 
 ### Flight Search Results
 ![Flight Search](screenshots/flights.png)
