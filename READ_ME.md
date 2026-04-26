@@ -1,0 +1,33 @@
+# Destinova ✈️
+
+A smart travel and social planning platform with AQI forecasting.
+
+## Features
+- Book flights, trains, buses, cabs, and hotels from a single unified interface
+- Automated email reminders sent to users for incomplete bookings
+- AI-powered AQI (Air Quality Index) prediction for travel destinations
+- Forecasts future air quality using machine learning and environmental data
+- Community-driven travel planning and social features
+- Fully responsive design across all devices
+
+## Screenshots
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### Flight Search Results
+![Flight Search](screenshots/flights.png)
+
+### AQI Chatbot
+![AQI Chatbot](screenshots/aqi-chatbot.gif)
+
+### Booking Email Reminder
+![Email](screenshots/email.png)
+
+## Tech Stack
+- React.js
+- JavaScript
+- HTML & CSS
+
+## Author
+**Hardik Teotia** — VIT Vellore
