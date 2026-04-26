@@ -22,8 +22,7 @@ A smart travel and social planning platform with AQI forecasting.
 ![AQI Chatbot](Screenshot%202026-04-26%20203356.png)
 
 ### Booking Email Reminder
-![Email](screenshots/email.png)
-
+![Email](Screenshot%202026-04-26%20203457.png)
 ## Tech Stack
 - React.js
 - JavaScript
