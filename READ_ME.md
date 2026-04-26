@@ -16,7 +16,7 @@ A smart travel and social planning platform with AQI forecasting.
 ![Homepage](Screenshot%202026-04-26%20203308.png)
 
 ### Flight Search Results
-![Flight Search](screenshots/flights.png)
+![Flight Search](Screenshot%202026-04-26%20203526.png)
 
 ### AQI Chatbot
 ![AQI Chatbot](Screenshot%202026-04-26%20203356.png)
